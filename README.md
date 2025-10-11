@@ -2,7 +2,7 @@
 
 # $\texttt{AVROBUSTBENCH}$: Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time
 
-<em> [Sarthak Kumar Maharana](https://sarthaxxxxx.github.io/), [Saksham Singh Kushwaha](https://sakshamsingh1.github.io/), [Baoming Zhang*](https://www.linkedin.com/in/baoming-zhang-286083313/), [Adrian Rodriguez*](https://axr2718.github.io/), [Songtao Wei](https://www.linkedin.com/in/songtao-wei/), [Yapeng Tian](https://www.yapengtian.com/), and [Yunhui Guo](https://yunhuiguo.github.io/) </em>
+<em> [Sarthak Kumar Maharana](https://sarthaxxxxx.github.io/), [Saksham Singh Kushwaha](https://sakshamsingh1.github.io/), [Baoming Zhang*](https://www.linkedin.com/in/baoming-zhang-286083313/), [Adrian Rodriguez*](https://axr2718.github.io/), [Songtao Wei*](https://www.linkedin.com/in/songtao-wei/), [Yapeng Tian](https://www.yapengtian.com/), and [Yunhui Guo](https://yunhuiguo.github.io/) </em>
 
 The University of Texas at Dallas, Richardson, TX, USA
 
