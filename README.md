@@ -92,3 +92,12 @@ corrupted_video = AVRobustBench.create_video(video_path, corruption="spatter", s
 ```
 
 `demo.ipynb` showcases a few examples of using the dataset.
+
+## Citation 
+```bibtex
+@inproceedings{maharana2025avrobustbench,
+  title={AVROBUSTBENCH: Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time},
+  author={Maharana, Sarthak Kumar and Kushwaha, Saksham Singh and Zhang, Baoming and Rodriguez, Adrian and Wei, Songtao and Tian, Yapeng and Guo, Yunhui},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
+}
